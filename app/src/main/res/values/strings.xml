@@ -1,0 +1,62 @@
+<resources>
+
+    //shoplist
+    <string name="shoplist_action_bar_shoplist">Shop list</string>
+    <string name="shoplist_button_create_list">Create</string>
+    <string name="shoplist_button_delete_list">Delete</string>
+    <string name="shoplist_button_cancel_list">Cancel</string>
+    <string name="shoplist_button_edit_list">Edit</string>
+    <string name="shoplist_dialog_title_new_list_name">New list name</string>
+    <string name="shoplist_dialog_new_list_hint">List name</string>
+    <string name="shoplist_dialog_title_edit_list_name">Edit list name</string>
+    <string name="shoplist_dialog_title_delete_list_item">Delete list</string>
+    <string name="shoplist_dialog_content_delete_item">Do you want delete this item?</string>
+    <string name="shoplist_dialog_title_update_name_item">Name</string>
+    <string name="shoplist_delete_list">Delete list</string>
+    <string name="shoplist_clear_list">Clear list</string>
+    <string name="shoplist_share_list">Share list</string>
+    <string name="shoplist_button_save_item">Save item</string>
+    <string name="shoplist_button_add_item">Add item</string>
+
+    //notes
+    <string name="notes_action_bar_notes">Notes</string>
+    <string name="notes_action_bar_create">Create note</string>
+    <string name="notes_action_bar_edit">Edit note</string>
+    <string name="notes_menu_item_color">Color</string>
+    <string name="notes_menu_item_bold">Bold</string>
+    <string name="notes_menu_item_save">Save</string>
+    <string name="notes_title_hint">Title</string>
+    <string name="notes_description_hint">Description</string>
+
+    //settings
+    <string name="settings_title">Settings</string>
+    <string name="settings_title_general">General</string>
+    <string name="settings_title_language">Language</string>
+    <string name="settings_title_note_style">Note style</string>
+    <string name="settings_note_style_linear">Linear</string>
+    <string name="settings_note_style_grid">Grid</string>
+    <string name="settings_title_time_format">Time format</string>
+    <string name="settings_title_remove_ads">Remove ads</string>
+    <string name="settings_content_remove_ads">Remove all ads from this app</string>
+    <string name="settings_title_theme_settings">Theme settings</string>
+    <string name="settings_title_theme">Theme</string>
+    <string name="settings_content_theme_red">Red theme</string>
+    <string name="settings_content_theme_blue">Blue theme</string>
+    <string name="settings_title_note_text_settings">Note text settings</string>
+    <string name="settings_title_title_text_size">Title text size</string>
+    <string name="settings_title_content_text_size">Content text size</string>
+    <string name="shoplist_dialog_title_update_inf_item">Item info</string>
+    <string name="shoplist_button_edit_item">Edit</string>
+    <string name="shoplist_dialog_title_edit_list_item">Edit list item</string>
+
+    //other
+    <string name="text_view_empty">Empty</string>
+    <string name="inter_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="app_name">ShoppingList</string>
+    <string name="create">create</string>
+    <string name="update">update</string>
+    <string name="toast_ads_deleted">Ads deleted</string>
+    <string name="toast_ads_deleted_problem">Problem</string>
+    <string name="share_title">List:</string>
+
+</resources>
